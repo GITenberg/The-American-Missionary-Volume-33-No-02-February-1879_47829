@@ -20,5 +20,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The American Missionary — Volume 33, No. 02, February, 1879
 url: http://www.gutenberg.org/ebooks/47829
